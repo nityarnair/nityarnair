@@ -55,14 +55,6 @@ Daily Python coding challenge to improve problem-solving and programming skills.
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nityarnair&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nityarnair&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=nityarnair&theme=tokyonight"/>
 </p>
 
